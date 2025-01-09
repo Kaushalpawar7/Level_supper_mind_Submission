@@ -24,7 +24,7 @@ This project provides a powerful and user-friendly solution to analyze social me
 #### **1. Online Version Using Langflow**  
 1. Visit the [Langflow website](https://www.langflow.org/) and log in or create an account.  
 2. Upload the flow file from this repository:  
-   - `Social Media Analytics Flow.json`.  
+   - `Social Media Analyst.json`.  
 3. Create a **vector database** in **Astra DB** and set up a **collection named "engagement"**.  
 4. Generate an **Application Token** under the Astra DB Overview tab and replace the **AstraDB token** in the Langflow component with your credentials.  
 5. Replace the **Gemini API key** in the Google Generative AI Model and Embedding components.  
