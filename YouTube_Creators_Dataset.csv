@@ -1,0 +1,301 @@
+Video_ID,Account_No,Video_Type,Upload_Date,Upload_Time,Title,Likes,Comments,Shares,Views,Watch_Time_Percentage,Tags,Subscribers_at_Post_Time
+VID_0001,CH_1565,gaming,2022-08-19,21:26:14,Gaming on Travel,78994,5486,3551,1297633,84.35,"walkthrough, gameplay, esports",645775
+VID_0002,CH_3611,short,2022-02-28,21:29:23,Short on Travel,94064,6564,350,712975,67.74,"viral, shorts, funny",436015
+VID_0003,CH_1714,gaming,2021-03-23,11:08:29,Gaming on Food,20816,186,961,50078,53.51,"walkthrough, esports, stream",837945
+VID_0004,CH_6098,review,2022-11-22,08:43:06,Review on Tech,12626,1086,63,157534,12.33,"product, pros and cons, opinion",500587
+VID_0005,CH_3467,vlog,2023-07-07,16:22:52,Vlog on Fitness,92060,6353,4528,675042,26.5,"daily life, experience, travel",26277
+VID_0006,CH_6291,short,2021-11-18,21:14:13,Short on Fitness,17105,802,813,180096,79.49,"shorts, funny, quick",294073
+VID_0007,CH_8967,gaming,2023-09-03,12:50:39,Gaming on Gaming,35883,3036,1742,102288,68.85,"gameplay, walkthrough, stream",657623
+VID_0008,CH_9802,tutorial,2020-10-21,18:29:39,Tutorial on Fitness,32132,1484,808,568400,48.28,"education, step-by-step, guide",211814
+VID_0009,CH_3833,tutorial,2021-03-03,10:24:45,Tutorial on Fitness,69552,847,3318,284449,14.63,"guide, step-by-step, education",276853
+VID_0010,CH_6462,review,2020-02-08,10:22:28,Review on Travel,98675,5570,3397,912275,21.27,"product, pros and cons, comparison",9129
+VID_0011,CH_5999,gaming,2022-11-28,04:34:50,Gaming on Tech,78262,5912,2682,1088367,14.02,"walkthrough, tips, gameplay",143936
+VID_0012,CH_2299,gaming,2023-02-11,04:40:04,Gaming on Food,76198,1283,934,186613,31.79,"stream, walkthrough, gameplay",784668
+VID_0013,CH_4263,short,2022-06-19,08:06:11,Short on Food,88952,5865,904,425894,40.27,"shorts, viral, quick",817352
+VID_0014,CH_3238,vlog,2022-09-18,16:31:52,Vlog on Tech,18584,759,761,329442,70.83,"diary, travel, personal",349591
+VID_0015,CH_6504,review,2020-05-07,20:30:20,Review on Travel,63926,5550,1387,902650,27.55,"pros and cons, recommendation, comparison",447004
+VID_0016,CH_1717,tutorial,2020-07-16,02:45:32,Tutorial on Tech,97330,5529,1292,1144155,72.12,"learn, step-by-step, guide",355416
+VID_0017,CH_2577,gaming,2023-12-19,09:16:07,Gaming on Travel,52011,1671,2235,910801,57.23,"tips, esports, walkthrough",89784
+VID_0018,CH_5940,gaming,2022-03-03,06:38:50,Gaming on Food,19943,727,521,224190,25.45,"tips, stream, gameplay",506798
+VID_0019,CH_5871,tutorial,2023-01-06,04:40:38,Tutorial on Travel,73217,6613,1457,679150,39.87,"step-by-step, education, how-to",741536
+VID_0020,CH_9901,vlog,2023-05-12,04:35:29,Vlog on Food,45893,2611,400,546174,38.58,"travel, daily life, personal",416158
+VID_0021,CH_7951,vlog,2022-04-11,05:19:19,Vlog on Tech,6832,203,208,130991,87.07,"experience, personal, travel",403422
+VID_0022,CH_4634,tutorial,2022-06-07,14:57:47,Tutorial on Food,64077,5462,1948,550334,85.61,"education, how-to, guide",578922
+VID_0023,CH_7273,review,2023-06-22,20:43:17,Review on Fitness,46342,3466,160,561686,50.7,"recommendation, pros and cons, product",889982
+VID_0024,CH_7214,review,2020-09-17,07:08:47,Review on Gaming,71620,1870,2212,558140,87.06,"pros and cons, recommendation, product",871127
+VID_0025,CH_2946,tutorial,2022-05-09,20:46:19,Tutorial on Tech,76788,246,2659,509680,45.34,"step-by-step, education, learn",329393
+VID_0026,CH_5781,tutorial,2021-02-14,03:51:44,Tutorial on Travel,50361,774,957,351430,50.86,"how-to, guide, education",583156
+VID_0027,CH_2073,tutorial,2022-07-11,17:14:06,Tutorial on Tech,79938,3738,3435,851750,41.06,"guide, learn, education",35240
+VID_0028,CH_5315,review,2022-06-30,03:20:25,Review on Gaming,81172,1817,534,568677,17.93,"comparison, product, pros and cons",698281
+VID_0029,CH_2510,vlog,2022-03-01,22:51:55,Vlog on Travel,21318,1933,727,308985,82.6,"experience, daily life, travel",563976
+VID_0030,CH_5431,gaming,2022-01-19,23:01:40,Gaming on Fitness,8884,618,171,150730,27.0,"esports, walkthrough, gameplay",664683
+VID_0031,CH_1810,review,2022-03-27,02:24:32,Review on Tech,7065,316,339,75002,59.51,"recommendation, product, opinion",159853
+VID_0032,CH_6107,short,2020-10-02,07:30:30,Short on Food,96770,6228,447,1478197,26.34,"shorts, viral, funny",94791
+VID_0033,CH_9792,short,2023-06-24,10:05:43,Short on Gaming,95954,3547,2655,484731,63.87,"funny, quick, trend",316533
+VID_0034,CH_1012,vlog,2021-12-13,07:02:53,Vlog on Tech,27369,2045,670,172501,12.72,"diary, experience, daily life",131311
+VID_0035,CH_9382,vlog,2022-12-12,08:50:59,Vlog on Fitness,18959,401,522,287524,62.82,"experience, diary, personal",907504
+VID_0036,CH_3042,tutorial,2023-10-02,09:37:37,Tutorial on Gaming,68062,63,24,759681,75.75,"guide, how-to, step-by-step",950291
+VID_0037,CH_7700,vlog,2022-02-20,08:25:52,Vlog on Travel,92695,6989,779,1631925,23.62,"daily life, travel, experience",731328
+VID_0038,CH_2067,vlog,2021-09-19,07:58:55,Vlog on Travel,24465,454,568,254255,10.94,"personal, daily life, travel",602711
+VID_0039,CH_1172,gaming,2022-04-20,18:53:23,Gaming on Tech,10723,626,110,214375,20.85,"walkthrough, stream, esports",488874
+VID_0040,CH_7215,review,2021-04-01,06:52:44,Review on Food,14851,297,680,165116,83.45,"comparison, opinion, product",515265
+VID_0041,CH_9969,tutorial,2022-02-14,20:59:31,Tutorial on Fitness,39503,641,1626,677908,34.04,"step-by-step, guide, learn",788574
+VID_0042,CH_7349,tutorial,2020-10-19,00:25:24,Tutorial on Fitness,13733,54,82,243851,30.09,"learn, how-to, guide",467848
+VID_0043,CH_1216,short,2022-12-12,13:43:57,Short on Gaming,25269,2330,626,442314,61.61,"viral, funny, quick",426399
+VID_0044,CH_1459,tutorial,2020-07-28,23:46:27,Tutorial on Tech,38521,388,1078,498919,25.36,"learn, education, guide",903276
+VID_0045,CH_9949,tutorial,2022-10-21,08:48:09,Tutorial on Gaming,22051,2088,512,131669,86.13,"learn, guide, step-by-step",170240
+VID_0046,CH_7451,tutorial,2023-11-25,01:17:20,Tutorial on Food,97441,8704,1276,730622,75.04,"guide, learn, how-to",754749
+VID_0047,CH_5761,tutorial,2022-07-10,12:53:25,Tutorial on Gaming,94917,8490,555,772374,68.08,"step-by-step, how-to, education",199057
+VID_0048,CH_8055,review,2023-12-26,10:54:56,Review on Tech,17874,68,879,241367,59.49,"opinion, comparison, pros and cons",14284
+VID_0049,CH_2971,vlog,2022-03-14,21:03:59,Vlog on Travel,88497,1278,658,383635,84.14,"experience, daily life, personal",261501
+VID_0050,CH_5887,tutorial,2023-01-31,06:39:30,Tutorial on Travel,62077,1766,759,557576,81.42,"guide, how-to, learn",719193
+VID_0051,CH_3661,review,2020-03-27,20:28:43,Review on Gaming,56699,4652,1427,707185,46.44,"recommendation, pros and cons, product",336818
+VID_0052,CH_3327,short,2022-10-18,08:01:58,Short on Food,7740,165,169,128589,15.2,"quick, shorts, funny",540883
+VID_0053,CH_7218,tutorial,2023-10-02,04:42:37,Tutorial on Tech,96782,7924,1234,1495983,26.27,"guide, education, step-by-step",945183
+VID_0054,CH_7399,review,2020-09-14,08:24:43,Review on Travel,53570,3707,313,857784,92.37,"product, recommendation, comparison",7836
+VID_0055,CH_7195,vlog,2020-04-28,06:17:09,Vlog on Tech,78876,6769,2111,571260,78.98,"travel, personal, daily life",108404
+VID_0056,CH_2237,vlog,2021-02-03,18:41:26,Vlog on Gaming,19284,1032,34,314996,20.56,"travel, diary, personal",783912
+VID_0057,CH_5448,review,2020-02-17,20:11:57,Review on Food,15771,728,423,163908,56.08,"comparison, pros and cons, recommendation",932775
+VID_0058,CH_4574,tutorial,2023-10-26,16:31:23,Tutorial on Food,25181,1892,1126,183266,50.37,"education, guide, step-by-step",626309
+VID_0059,CH_3848,short,2020-02-21,17:46:45,Short on Travel,2261,161,9,30409,36.14,"funny, quick, viral",474079
+VID_0060,CH_1959,tutorial,2021-09-11,03:59:41,Tutorial on Travel,21007,274,352,121981,82.9,"education, learn, step-by-step",486952
+VID_0061,CH_5191,vlog,2021-04-01,11:38:15,Vlog on Tech,9718,897,425,29331,58.19,"personal, travel, experience",619945
+VID_0062,CH_5042,gaming,2022-04-09,18:04:47,Gaming on Travel,63862,3330,2330,213325,68.82,"esports, walkthrough, gameplay",342374
+VID_0063,CH_5541,tutorial,2023-12-21,17:48:33,Tutorial on Travel,6999,252,296,22053,86.0,"step-by-step, how-to, learn",364846
+VID_0064,CH_7830,tutorial,2023-07-24,01:04:55,Tutorial on Fitness,60104,1551,853,856321,71.99,"education, guide, step-by-step",165045
+VID_0065,CH_3467,short,2021-09-24,08:42:05,Short on Tech,33790,1528,197,493890,38.7,"shorts, trend, viral",571606
+VID_0066,CH_9526,vlog,2020-11-14,05:48:57,Vlog on Tech,86440,4888,703,1310654,10.27,"personal, travel, experience",664865
+VID_0067,CH_2191,vlog,2021-12-04,21:31:54,Vlog on Travel,8878,244,143,153715,75.61,"experience, diary, personal",513035
+VID_0068,CH_7942,vlog,2021-02-22,22:09:05,Vlog on Tech,52995,3283,17,869986,50.87,"diary, travel, personal",27955
+VID_0069,CH_8392,short,2020-03-07,14:57:03,Short on Fitness,54736,5168,1444,784989,36.63,"trend, viral, quick",803057
+VID_0070,CH_8273,short,2023-06-21,08:37:03,Short on Travel,83817,7610,3802,1036344,11.21,"shorts, trend, viral",771633
+VID_0071,CH_2987,review,2021-05-09,20:54:11,Review on Food,5941,533,191,52941,45.62,"product, recommendation, pros and cons",567809
+VID_0072,CH_5712,review,2021-10-01,13:36:01,Review on Tech,42028,1980,674,222156,27.24,"comparison, product, pros and cons",762804
+VID_0073,CH_5943,gaming,2023-04-22,21:52:42,Gaming on Tech,45545,3368,459,396660,68.29,"stream, walkthrough, esports",465223
+VID_0074,CH_6575,review,2023-08-27,04:34:19,Review on Travel,1435,93,35,16745,62.18,"product, opinion, recommendation",833901
+VID_0075,CH_4773,gaming,2023-06-06,00:11:58,Gaming on Fitness,91713,971,293,1310055,78.61,"tips, stream, walkthrough",700808
+VID_0076,CH_4653,gaming,2023-12-09,21:04:46,Gaming on Fitness,7490,669,88,68254,63.43,"walkthrough, gameplay, tips",145227
+VID_0077,CH_4239,vlog,2023-11-09,16:01:03,Vlog on Travel,32791,97,1177,409671,88.4,"travel, personal, diary",188984
+VID_0078,CH_2152,vlog,2020-08-22,23:53:57,Vlog on Travel,69516,5401,1854,621656,48.64,"daily life, diary, personal",581405
+VID_0079,CH_2257,short,2022-09-10,03:07:21,Short on Fitness,7391,312,50,18071,93.2,"funny, quick, shorts",553064
+VID_0080,CH_4429,short,2022-02-11,18:11:50,Short on Fitness,37101,2473,455,530627,37.78,"funny, viral, trend",624144
+VID_0081,CH_3197,vlog,2022-06-22,04:16:46,Vlog on Travel,5386,521,125,60103,91.61,"experience, diary, daily life",989113
+VID_0082,CH_4974,short,2021-04-11,04:59:43,Short on Travel,76921,416,2118,349384,63.02,"viral, funny, quick",43468
+VID_0083,CH_7533,tutorial,2021-02-26,18:12:30,Tutorial on Gaming,67780,790,2754,1015809,22.19,"how-to, step-by-step, education",951214
+VID_0084,CH_4928,review,2022-06-27,09:31:46,Review on Tech,91269,4339,3302,292324,60.71,"comparison, opinion, product",991478
+VID_0085,CH_7909,tutorial,2021-07-15,15:24:01,Tutorial on Travel,81097,5912,859,794783,22.42,"guide, how-to, learn",246311
+VID_0086,CH_1403,short,2020-12-13,12:35:52,Short on Tech,70258,3332,2564,1140263,65.54,"quick, funny, trend",367112
+VID_0087,CH_7363,gaming,2023-08-28,03:42:26,Gaming on Food,41991,2659,1450,403523,19.49,"gameplay, walkthrough, esports",658968
+VID_0088,CH_4138,gaming,2023-12-24,13:37:57,Gaming on Travel,78998,7626,2369,1246183,61.86,"stream, gameplay, walkthrough",226708
+VID_0089,CH_1014,vlog,2023-04-22,23:17:35,Vlog on Tech,66754,5978,919,720742,10.42,"daily life, experience, diary",151869
+VID_0090,CH_4086,tutorial,2022-11-02,18:37:35,Tutorial on Travel,66967,259,950,1158092,34.9,"step-by-step, guide, learn",35284
+VID_0091,CH_2225,gaming,2021-08-18,10:10:54,Gaming on Food,6223,456,71,67771,60.44,"walkthrough, tips, stream",866046
+VID_0092,CH_9538,review,2020-12-17,01:50:27,Review on Fitness,52699,1429,1990,997319,74.4,"opinion, recommendation, pros and cons",90410
+VID_0093,CH_6177,short,2020-06-22,11:00:55,Short on Travel,88924,6193,3072,1375916,61.6,"quick, shorts, funny",275064
+VID_0094,CH_7716,vlog,2023-02-26,12:18:25,Vlog on Travel,60431,43,1705,637253,52.97,"travel, diary, daily life",59641
+VID_0095,CH_4330,vlog,2023-11-16,10:49:41,Vlog on Tech,10123,523,90,24068,87.99,"daily life, diary, travel",377068
+VID_0096,CH_7163,tutorial,2023-10-24,08:50:20,Tutorial on Travel,63665,2129,1716,903306,40.21,"education, guide, learn",412139
+VID_0097,CH_1033,review,2021-07-19,18:29:02,Review on Tech,23760,1810,926,369470,64.36,"product, comparison, recommendation",226083
+VID_0098,CH_8276,gaming,2021-07-04,02:13:03,Gaming on Tech,48822,2119,2385,354018,36.35,"tips, stream, walkthrough",999380
+VID_0099,CH_1367,short,2021-09-20,12:17:13,Short on Tech,76386,4497,3208,1055850,15.86,"quick, trend, shorts",869111
+VID_0100,CH_4386,vlog,2023-01-26,05:48:43,Vlog on Travel,36130,1753,396,256591,39.3,"daily life, experience, travel",792265
+VID_0101,CH_3283,short,2023-05-15,16:12:40,Short on Fitness,56213,2379,505,733379,40.65,"viral, funny, trend",265928
+VID_0102,CH_3379,vlog,2020-11-27,15:18:53,Vlog on Food,65863,1499,1681,1059946,37.11,"daily life, experience, travel",422032
+VID_0103,CH_6008,gaming,2023-04-09,16:20:48,Gaming on Food,70572,2604,1042,314300,21.55,"walkthrough, gameplay, stream",948588
+VID_0104,CH_8395,gaming,2021-05-06,01:51:28,Gaming on Food,46596,2391,1784,380213,88.1,"esports, gameplay, tips",797996
+VID_0105,CH_9791,gaming,2021-10-28,18:13:40,Gaming on Gaming,53964,4006,2248,217714,60.63,"gameplay, tips, walkthrough",911484
+VID_0106,CH_8039,vlog,2022-11-29,06:38:09,Vlog on Food,2175,83,43,11522,11.28,"diary, personal, experience",216620
+VID_0107,CH_9236,vlog,2021-03-11,13:11:01,Vlog on Travel,46239,1272,1270,464054,87.3,"experience, travel, daily life",391670
+VID_0108,CH_5065,gaming,2023-08-24,19:42:02,Gaming on Tech,11004,593,200,125740,90.17,"esports, walkthrough, gameplay",157374
+VID_0109,CH_9951,vlog,2020-08-03,16:10:33,Vlog on Gaming,23815,952,670,144133,74.18,"daily life, diary, travel",314956
+VID_0110,CH_3381,gaming,2023-11-27,10:04:38,Gaming on Gaming,69704,1853,1849,1054313,53.85,"esports, walkthrough, tips",406820
+VID_0111,CH_3727,gaming,2020-10-17,08:36:13,Gaming on Fitness,39785,3400,1821,138251,43.32,"esports, stream, tips",759248
+VID_0112,CH_2384,tutorial,2022-07-06,04:54:06,Tutorial on Fitness,51388,3449,2116,812290,41.1,"how-to, guide, learn",408274
+VID_0113,CH_1096,review,2022-02-26,12:45:18,Review on Food,73500,1635,3291,1379449,81.06,"recommendation, comparison, product",476074
+VID_0114,CH_4196,review,2020-06-22,23:18:32,Review on Tech,53122,1926,2243,980514,54.56,"product, opinion, pros and cons",88386
+VID_0115,CH_1847,tutorial,2023-11-04,06:17:06,Tutorial on Food,4433,173,161,55103,53.03,"step-by-step, how-to, guide",439862
+VID_0116,CH_3516,gaming,2021-05-26,14:46:55,Gaming on Food,86302,4398,1391,349719,31.61,"esports, tips, stream",292869
+VID_0117,CH_3335,gaming,2023-11-17,23:25:28,Gaming on Fitness,35001,1281,1328,658286,36.74,"stream, tips, walkthrough",889986
+VID_0118,CH_7296,gaming,2021-11-10,06:57:35,Gaming on Food,93570,2350,1406,868247,51.8,"tips, gameplay, stream",140359
+VID_0119,CH_4468,tutorial,2021-08-10,09:26:58,Tutorial on Gaming,12495,261,283,89181,56.35,"learn, step-by-step, guide",685949
+VID_0120,CH_3708,review,2021-05-24,05:44:13,Review on Travel,68490,1431,3390,238362,88.33,"pros and cons, recommendation, comparison",775825
+VID_0121,CH_4899,vlog,2023-01-25,07:00:16,Vlog on Food,55012,4586,1075,617261,73.23,"daily life, personal, diary",592171
+VID_0122,CH_5746,gaming,2020-10-21,12:20:08,Gaming on Gaming,76238,5674,741,1069016,27.3,"tips, walkthrough, gameplay",530199
+VID_0123,CH_2797,tutorial,2021-11-17,05:56:55,Tutorial on Gaming,2041,193,29,35948,46.43,"step-by-step, education, guide",852519
+VID_0124,CH_1304,gaming,2022-09-29,07:39:17,Gaming on Food,27039,1548,422,451728,89.12,"gameplay, tips, esports",722751
+VID_0125,CH_2655,review,2021-10-06,12:06:02,Review on Tech,57480,3296,1022,676646,57.5,"recommendation, opinion, product",481501
+VID_0126,CH_9888,gaming,2021-05-04,00:03:36,Gaming on Food,20667,35,968,223305,23.07,"tips, gameplay, stream",968640
+VID_0127,CH_8752,short,2021-09-10,01:01:30,Short on Tech,88066,8745,399,1054880,77.72,"funny, trend, shorts",120094
+VID_0128,CH_6170,tutorial,2023-06-01,14:38:26,Tutorial on Food,5372,11,58,47154,63.41,"education, how-to, step-by-step",120005
+VID_0129,CH_1972,short,2022-12-15,06:10:31,Short on Tech,99583,8322,894,1637515,20.47,"trend, quick, shorts",709337
+VID_0130,CH_2383,short,2020-05-06,14:40:22,Short on Tech,24813,1786,993,296775,82.32,"shorts, quick, trend",903213
+VID_0131,CH_7764,vlog,2022-02-16,22:14:10,Vlog on Gaming,96782,1505,3758,342331,92.48,"daily life, diary, experience",124823
+VID_0132,CH_9801,short,2021-09-13,23:10:42,Short on Gaming,41434,2237,798,681916,83.63,"trend, shorts, funny",375875
+VID_0133,CH_4875,review,2023-09-21,06:56:31,Review on Fitness,80235,1453,3081,1286065,31.57,"recommendation, pros and cons, opinion",63709
+VID_0134,CH_3318,review,2020-06-19,16:54:56,Review on Gaming,99283,6439,1268,663490,86.86,"comparison, recommendation, product",715842
+VID_0135,CH_4583,review,2020-09-07,20:45:29,Review on Tech,59617,4039,861,1130953,37.91,"opinion, pros and cons, comparison",942968
+VID_0136,CH_3556,review,2021-07-28,00:23:46,Review on Food,14106,96,596,92983,59.24,"recommendation, product, comparison",560366
+VID_0137,CH_8788,tutorial,2020-01-27,22:51:23,Tutorial on Travel,38434,3646,602,601366,37.71,"education, step-by-step, learn",999481
+VID_0138,CH_3869,vlog,2021-04-01,08:25:58,Vlog on Fitness,22472,1794,862,366851,21.16,"daily life, travel, diary",924325
+VID_0139,CH_7512,short,2020-05-07,08:05:40,Short on Food,46042,2249,1423,752049,48.74,"funny, viral, quick",305234
+VID_0140,CH_7725,gaming,2020-02-16,14:25:20,Gaming on Food,13849,760,318,192269,45.67,"walkthrough, stream, tips",767571
+VID_0141,CH_8888,short,2023-12-06,17:23:11,Short on Tech,60676,3430,2282,860214,59.69,"quick, trend, shorts",821126
+VID_0142,CH_3036,vlog,2021-03-18,15:00:55,Vlog on Gaming,13167,399,205,208700,67.37,"diary, daily life, personal",355989
+VID_0143,CH_7599,gaming,2023-11-22,09:44:00,Gaming on Gaming,49065,928,108,515401,46.74,"gameplay, tips, esports",550928
+VID_0144,CH_2717,short,2020-12-21,21:35:26,Short on Fitness,42780,3132,2078,808015,71.19,"shorts, funny, trend",719667
+VID_0145,CH_5177,review,2023-12-04,14:57:20,Review on Fitness,9131,338,114,83483,29.33,"product, opinion, recommendation",923364
+VID_0146,CH_9930,tutorial,2020-07-30,01:58:13,Tutorial on Travel,11124,39,545,191012,76.75,"guide, education, step-by-step",513455
+VID_0147,CH_4944,review,2021-06-08,21:59:02,Review on Travel,21016,1565,507,89607,68.89,"comparison, pros and cons, product",412361
+VID_0148,CH_9829,tutorial,2022-02-14,21:51:37,Tutorial on Fitness,19365,1307,293,155827,11.51,"how-to, learn, education",946374
+VID_0149,CH_8782,short,2021-09-18,19:44:40,Short on Gaming,50812,3735,268,377459,30.46,"funny, quick, trend",196445
+VID_0150,CH_7759,vlog,2021-11-20,10:33:18,Vlog on Gaming,34172,1082,475,257780,56.98,"experience, diary, travel",503270
+VID_0151,CH_9622,vlog,2023-10-30,17:45:03,Vlog on Gaming,46650,364,1786,519394,89.28,"personal, travel, daily life",280394
+VID_0152,CH_3868,short,2022-06-29,07:13:05,Short on Tech,81296,2065,1343,1268678,68.35,"shorts, quick, funny",594727
+VID_0153,CH_8533,gaming,2020-07-23,06:46:19,Gaming on Food,74578,2412,1837,521693,48.33,"walkthrough, esports, gameplay",350728
+VID_0154,CH_5116,review,2020-02-06,18:31:07,Review on Travel,67776,1983,3016,1134081,52.77,"comparison, opinion, product",733934
+VID_0155,CH_1457,review,2021-12-13,02:17:41,Review on Fitness,42007,3887,678,391136,85.93,"product, recommendation, opinion",459261
+VID_0156,CH_4269,short,2020-09-09,22:43:02,Short on Food,55881,4613,1412,796526,40.88,"trend, viral, quick",552804
+VID_0157,CH_4090,tutorial,2023-03-06,03:20:10,Tutorial on Tech,47073,1583,1967,538765,24.1,"step-by-step, how-to, learn",121536
+VID_0158,CH_4937,review,2023-02-07,15:37:21,Review on Fitness,77528,2482,3435,1487894,14.4,"opinion, recommendation, product",775271
+VID_0159,CH_4239,short,2022-10-20,14:13:48,Short on Fitness,56277,654,503,748315,44.66,"trend, quick, shorts",196364
+VID_0160,CH_6030,vlog,2022-11-16,04:46:15,Vlog on Gaming,42722,1791,1059,795073,79.75,"diary, experience, personal",346719
+VID_0161,CH_4564,short,2022-05-21,13:50:23,Short on Tech,20020,1343,386,388988,34.86,"trend, quick, viral",512808
+VID_0162,CH_9326,gaming,2021-06-30,05:50:56,Gaming on Fitness,11263,1085,280,201225,29.31,"gameplay, tips, walkthrough",484819
+VID_0163,CH_7050,gaming,2023-09-06,07:53:18,Gaming on Food,2579,157,47,22263,64.75,"stream, walkthrough, gameplay",541058
+VID_0164,CH_9928,gaming,2023-12-29,14:03:34,Gaming on Food,5534,520,141,76777,90.2,"stream, esports, tips",77516
+VID_0165,CH_2847,short,2023-01-18,04:00:39,Short on Gaming,69407,4504,2993,165408,48.12,"trend, quick, funny",892666
+VID_0166,CH_7541,vlog,2023-01-24,06:20:00,Vlog on Food,76636,5683,703,966044,22.79,"diary, daily life, experience",285723
+VID_0167,CH_2602,tutorial,2020-11-19,00:01:08,Tutorial on Food,45615,2241,975,743336,47.07,"step-by-step, guide, education",191910
+VID_0168,CH_2911,vlog,2021-08-17,04:29:05,Vlog on Travel,3057,165,111,32425,46.94,"daily life, experience, travel",917494
+VID_0169,CH_8155,review,2022-04-04,17:44:53,Review on Gaming,9720,332,447,28861,42.68,"comparison, recommendation, product",221589
+VID_0170,CH_8158,gaming,2022-03-30,01:48:18,Gaming on Tech,22853,34,5,402870,27.31,"tips, stream, walkthrough",723812
+VID_0171,CH_9696,gaming,2021-01-30,05:22:20,Gaming on Food,13989,1044,416,41322,37.64,"gameplay, esports, stream",772785
+VID_0172,CH_9812,tutorial,2021-07-15,02:44:03,Tutorial on Travel,44446,119,428,524895,94.16,"learn, step-by-step, education",997737
+VID_0173,CH_2628,gaming,2022-05-20,16:42:21,Gaming on Gaming,38164,751,345,336192,30.06,"stream, gameplay, esports",77660
+VID_0174,CH_4753,vlog,2021-11-03,12:12:17,Vlog on Tech,60602,847,1778,791984,85.05,"travel, daily life, experience",371898
+VID_0175,CH_6994,tutorial,2023-10-15,03:24:54,Tutorial on Tech,15623,1252,637,262270,62.38,"how-to, step-by-step, guide",257736
+VID_0176,CH_8502,tutorial,2021-05-18,07:32:38,Tutorial on Travel,88148,2795,3929,1156287,56.35,"step-by-step, guide, how-to",367977
+VID_0177,CH_3576,short,2022-09-27,14:39:49,Short on Food,77199,5535,2450,797114,55.83,"viral, funny, quick",527481
+VID_0178,CH_1854,vlog,2023-02-10,10:50:38,Vlog on Food,49894,279,2182,135183,47.64,"daily life, travel, experience",650612
+VID_0179,CH_6775,review,2022-12-17,15:14:38,Review on Tech,69806,4476,867,254733,23.95,"opinion, recommendation, product",803616
+VID_0180,CH_7994,short,2022-04-27,23:10:51,Short on Gaming,94037,110,1898,1025209,28.09,"funny, quick, trend",120698
+VID_0181,CH_9095,short,2022-04-18,05:49:16,Short on Gaming,50286,1955,398,362014,45.1,"trend, viral, quick",786893
+VID_0182,CH_3894,gaming,2020-08-09,18:26:16,Gaming on Tech,85207,4932,1594,1525031,10.46,"tips, walkthrough, esports",862421
+VID_0183,CH_6461,tutorial,2022-05-16,08:48:59,Tutorial on Fitness,44246,2248,106,338222,78.19,"step-by-step, learn, education",715100
+VID_0184,CH_1134,vlog,2022-10-29,20:15:26,Vlog on Food,76832,7115,3733,1525569,47.33,"experience, diary, travel",828282
+VID_0185,CH_5173,short,2021-05-18,14:12:28,Short on Tech,34169,560,1636,647678,71.69,"funny, shorts, viral",660048
+VID_0186,CH_1906,review,2021-10-25,07:03:27,Review on Food,86222,4908,1276,909438,41.22,"opinion, recommendation, pros and cons",720725
+VID_0187,CH_8275,short,2023-09-10,00:17:31,Short on Fitness,63097,2991,2412,929029,22.81,"viral, trend, funny",896121
+VID_0188,CH_8367,review,2020-06-09,08:30:36,Review on Fitness,63399,3790,1344,591149,49.96,"product, comparison, recommendation",338536
+VID_0189,CH_7728,vlog,2023-03-15,08:47:14,Vlog on Tech,73989,4552,3219,1158733,83.82,"travel, diary, daily life",630900
+VID_0190,CH_4579,review,2022-11-20,05:38:24,Review on Gaming,94827,5880,413,331396,50.78,"opinion, product, comparison",33380
+VID_0191,CH_1083,gaming,2020-03-27,23:13:31,Gaming on Gaming,27972,1590,1197,186974,49.23,"walkthrough, tips, esports",558148
+VID_0192,CH_2292,short,2023-04-20,07:01:47,Short on Gaming,11274,1060,114,125735,83.83,"viral, quick, funny",549132
+VID_0193,CH_3499,vlog,2020-10-31,19:30:25,Vlog on Fitness,73147,5388,2157,855920,71.69,"personal, daily life, experience",650537
+VID_0194,CH_5319,gaming,2020-08-13,21:20:10,Gaming on Gaming,80282,1607,696,587744,13.45,"esports, walkthrough, gameplay",463577
+VID_0195,CH_6915,tutorial,2020-04-29,02:58:33,Tutorial on Food,35035,1474,1343,153797,80.27,"step-by-step, how-to, guide",249358
+VID_0196,CH_3136,vlog,2023-02-08,13:14:54,Vlog on Food,42283,2507,274,827024,66.38,"experience, travel, personal",696058
+VID_0197,CH_6721,gaming,2021-03-01,12:38:21,Gaming on Gaming,35825,161,460,419952,64.15,"walkthrough, tips, esports",583219
+VID_0198,CH_1233,gaming,2020-12-25,15:41:47,Gaming on Gaming,24554,1711,610,415257,54.01,"tips, walkthrough, gameplay",177526
+VID_0199,CH_6296,gaming,2022-10-10,02:05:06,Gaming on Tech,32423,2169,802,349288,33.03,"walkthrough, tips, gameplay",609723
+VID_0200,CH_8580,vlog,2023-09-16,04:19:15,Vlog on Gaming,55927,3021,651,185993,59.33,"personal, experience, diary",18462
+VID_0201,CH_1992,review,2021-07-23,21:11:06,Review on Tech,27061,1447,451,161615,39.79,"recommendation, comparison, opinion",352885
+VID_0202,CH_9028,short,2022-02-11,17:52:55,Short on Travel,97572,6793,226,703373,55.77,"quick, viral, shorts",304413
+VID_0203,CH_9345,review,2022-06-15,03:12:56,Review on Food,11760,305,219,161744,83.22,"comparison, opinion, pros and cons",560731
+VID_0204,CH_2991,review,2021-04-23,10:47:18,Review on Tech,92364,498,218,1588401,91.09,"pros and cons, comparison, recommendation",467382
+VID_0205,CH_7446,tutorial,2021-01-29,14:02:56,Tutorial on Gaming,21097,1383,275,62536,13.35,"learn, guide, how-to",446090
+VID_0206,CH_8070,gaming,2022-01-08,19:11:21,Gaming on Tech,55721,1231,2016,724982,67.23,"tips, walkthrough, stream",692745
+VID_0207,CH_4651,review,2023-06-24,18:32:02,Review on Tech,29414,84,330,250951,44.76,"product, opinion, comparison",953841
+VID_0208,CH_8486,gaming,2020-11-12,20:43:01,Gaming on Tech,38899,3799,23,641833,75.98,"tips, walkthrough, gameplay",383512
+VID_0209,CH_3049,vlog,2021-09-13,07:19:59,Vlog on Tech,36219,1000,1391,578503,49.83,"diary, travel, daily life",196231
+VID_0210,CH_5168,tutorial,2022-04-18,21:32:45,Tutorial on Tech,25046,2317,206,187344,89.45,"education, guide, how-to",198357
+VID_0211,CH_2881,gaming,2021-07-22,18:08:57,Gaming on Tech,30213,1010,1008,378574,62.01,"esports, tips, stream",601733
+VID_0212,CH_7205,review,2020-06-21,11:56:20,Review on Tech,95169,6275,3879,1825261,16.94,"pros and cons, recommendation, opinion",666272
+VID_0213,CH_7051,tutorial,2021-12-07,15:21:56,Tutorial on Fitness,11458,269,192,178791,83.04,"learn, education, step-by-step",588589
+VID_0214,CH_5404,tutorial,2021-05-17,00:47:18,Tutorial on Gaming,27146,2418,1181,483906,12.56,"learn, how-to, step-by-step",403364
+VID_0215,CH_4331,review,2022-11-16,09:28:56,Review on Fitness,13357,1081,159,74524,42.48,"recommendation, pros and cons, product",722554
+VID_0216,CH_2063,vlog,2020-08-15,09:54:53,Vlog on Fitness,97477,4364,4673,1770016,52.31,"diary, travel, daily life",77327
+VID_0217,CH_7041,short,2020-08-25,23:25:47,Short on Gaming,87030,6751,1211,752696,40.57,"quick, viral, trend",584630
+VID_0218,CH_1687,gaming,2021-01-03,19:37:34,Gaming on Travel,38690,1425,1894,665323,51.41,"esports, tips, walkthrough",18987
+VID_0219,CH_5227,vlog,2022-01-11,14:01:13,Vlog on Gaming,31088,2200,793,184822,91.69,"travel, experience, diary",675483
+VID_0220,CH_7377,tutorial,2021-10-14,08:05:41,Tutorial on Fitness,46104,1250,1490,126472,26.58,"education, guide, how-to",607770
+VID_0221,CH_8888,review,2023-12-30,03:34:02,Review on Tech,29869,501,578,60257,91.54,"opinion, pros and cons, product",982139
+VID_0222,CH_7392,vlog,2020-10-02,15:45:00,Vlog on Gaming,51537,3123,2488,281182,34.6,"personal, travel, experience",166579
+VID_0223,CH_1938,gaming,2023-11-30,06:27:51,Gaming on Food,85661,7524,1676,429700,16.96,"esports, walkthrough, tips",900472
+VID_0224,CH_8902,vlog,2020-08-23,13:13:30,Vlog on Food,71841,437,1768,180813,13.03,"diary, personal, travel",338979
+VID_0225,CH_9519,vlog,2020-07-23,07:14:01,Vlog on Fitness,71375,940,3359,193955,38.59,"personal, daily life, diary",86677
+VID_0226,CH_8722,tutorial,2023-08-08,18:13:55,Tutorial on Tech,10142,231,98,75911,58.86,"learn, how-to, step-by-step",167837
+VID_0227,CH_6313,review,2020-05-30,05:19:01,Review on Fitness,70485,51,69,1202060,59.06,"recommendation, comparison, product",54545
+VID_0228,CH_1805,gaming,2023-11-15,14:53:06,Gaming on Tech,60097,2979,673,652370,48.13,"stream, walkthrough, gameplay",162485
+VID_0229,CH_3957,tutorial,2020-01-26,00:43:40,Tutorial on Food,71720,5699,2602,282381,59.75,"learn, step-by-step, how-to",111885
+VID_0230,CH_5445,vlog,2020-02-24,04:23:33,Vlog on Tech,39132,3140,562,329097,27.81,"diary, personal, experience",325018
+VID_0231,CH_5159,review,2021-01-28,07:33:05,Review on Food,75357,711,1565,1256953,24.76,"product, recommendation, pros and cons",135364
+VID_0232,CH_2282,review,2021-02-21,18:07:21,Review on Fitness,35166,3414,631,539027,64.38,"comparison, recommendation, opinion",788582
+VID_0233,CH_9586,gaming,2022-09-04,06:09:17,Gaming on Travel,80048,4454,1003,260803,44.1,"stream, walkthrough, esports",115418
+VID_0234,CH_2993,vlog,2021-01-04,02:24:15,Vlog on Travel,19649,744,439,110761,13.75,"diary, experience, personal",378800
+VID_0235,CH_6774,gaming,2020-08-02,14:57:13,Gaming on Gaming,44227,345,1139,809340,13.43,"esports, stream, gameplay",408812
+VID_0236,CH_1051,vlog,2020-12-01,02:03:53,Vlog on Travel,58835,4739,2453,1143743,28.25,"personal, travel, diary",53837
+VID_0237,CH_5629,tutorial,2023-03-18,06:42:47,Tutorial on Travel,97065,9666,273,346802,86.14,"learn, education, how-to",538328
+VID_0238,CH_6960,review,2021-05-22,14:03:27,Review on Fitness,90984,6853,3822,663511,52.8,"product, pros and cons, opinion",195276
+VID_0239,CH_4395,short,2021-11-29,19:19:54,Short on Travel,66295,2458,1968,308343,66.52,"shorts, funny, trend",925285
+VID_0240,CH_1504,tutorial,2023-01-05,04:05:54,Tutorial on Gaming,14225,1226,518,274004,93.65,"education, how-to, learn",705573
+VID_0241,CH_5175,short,2023-04-04,02:16:00,Short on Tech,92784,8223,3600,768166,91.72,"trend, funny, quick",89870
+VID_0242,CH_8420,vlog,2021-05-13,05:21:21,Vlog on Tech,18244,499,535,169899,27.97,"personal, daily life, diary",277006
+VID_0243,CH_7609,tutorial,2020-06-17,08:01:43,Tutorial on Travel,73933,358,1453,207536,11.46,"learn, guide, how-to",422176
+VID_0244,CH_7969,short,2022-11-18,04:30:01,Short on Travel,59380,2522,910,429258,48.88,"funny, viral, shorts",334197
+VID_0245,CH_6160,vlog,2020-01-04,19:21:57,Vlog on Tech,12020,1128,54,164267,86.9,"experience, travel, personal",485196
+VID_0246,CH_7200,review,2023-04-07,06:12:36,Review on Food,57386,3288,59,772314,41.52,"opinion, product, pros and cons",866400
+VID_0247,CH_7484,vlog,2020-11-30,05:57:03,Vlog on Tech,55092,2116,1794,867090,47.45,"personal, experience, diary",703943
+VID_0248,CH_9387,short,2022-08-15,15:00:16,Short on Travel,89558,6766,66,1266482,50.52,"trend, viral, shorts",139153
+VID_0249,CH_2406,review,2021-12-21,08:53:41,Review on Gaming,94041,3601,1437,521877,19.22,"comparison, recommendation, opinion",621801
+VID_0250,CH_2710,gaming,2022-07-06,03:04:24,Gaming on Fitness,84283,8370,1991,695562,77.69,"gameplay, tips, stream",827089
+VID_0251,CH_8978,short,2022-04-01,02:09:27,Short on Travel,76671,3463,2862,230427,48.67,"viral, quick, shorts",395001
+VID_0252,CH_2038,vlog,2022-03-30,20:06:25,Vlog on Gaming,1672,159,77,31420,67.88,"travel, diary, personal",18424
+VID_0253,CH_6323,tutorial,2023-06-28,03:00:14,Tutorial on Food,11763,862,342,207191,23.04,"step-by-step, guide, education",391720
+VID_0254,CH_1639,tutorial,2021-12-03,08:57:26,Tutorial on Fitness,12462,732,132,94228,37.06,"education, learn, how-to",411992
+VID_0255,CH_8011,gaming,2021-07-20,19:58:27,Gaming on Travel,32469,110,225,243015,31.25,"esports, gameplay, walkthrough",668823
+VID_0256,CH_3423,gaming,2023-01-13,04:20:55,Gaming on Food,69591,2950,2587,211341,29.65,"gameplay, walkthrough, esports",261312
+VID_0257,CH_3876,tutorial,2020-01-14,17:52:25,Tutorial on Fitness,16211,532,16,88579,12.01,"how-to, learn, step-by-step",995316
+VID_0258,CH_6120,review,2022-12-23,01:54:32,Review on Tech,7999,157,247,91910,62.48,"pros and cons, product, recommendation",399212
+VID_0259,CH_5310,vlog,2021-03-29,12:34:36,Vlog on Food,4689,129,51,30269,25.46,"travel, personal, experience",536237
+VID_0260,CH_6955,review,2021-06-10,11:26:34,Review on Tech,9053,700,16,66931,24.03,"opinion, comparison, product",627198
+VID_0261,CH_2925,gaming,2020-01-03,07:36:06,Gaming on Food,71819,4819,21,1166495,61.23,"gameplay, esports, tips",76214
+VID_0262,CH_3502,review,2022-08-07,19:22:31,Review on Gaming,31498,969,1149,133782,20.21,"pros and cons, comparison, recommendation",653644
+VID_0263,CH_9888,short,2021-09-27,17:05:40,Short on Fitness,82951,1091,3140,461588,93.4,"shorts, trend, viral",633954
+VID_0264,CH_2952,review,2022-04-06,10:28:53,Review on Travel,83026,1698,1923,923895,94.25,"comparison, pros and cons, recommendation",802710
+VID_0265,CH_8610,vlog,2022-07-07,00:49:50,Vlog on Food,55691,1707,95,307110,79.62,"diary, daily life, experience",987003
+VID_0266,CH_3122,review,2021-10-25,20:54:51,Review on Fitness,91077,4044,1631,664697,76.62,"comparison, opinion, pros and cons",494268
+VID_0267,CH_9548,gaming,2022-09-12,07:01:15,Gaming on Gaming,78733,4720,1190,649747,89.12,"tips, stream, gameplay",929971
+VID_0268,CH_4362,review,2021-06-15,16:23:03,Review on Food,81825,2042,3103,1506110,12.9,"product, opinion, recommendation",655532
+VID_0269,CH_9602,gaming,2020-02-03,23:26:24,Gaming on Food,57724,5483,569,163898,91.0,"gameplay, stream, walkthrough",729404
+VID_0270,CH_2179,gaming,2022-04-27,07:06:26,Gaming on Travel,24030,532,1001,331735,59.1,"stream, walkthrough, tips",149249
+VID_0271,CH_9381,review,2022-12-29,18:49:51,Review on Gaming,84302,8299,3062,1118751,55.04,"pros and cons, product, opinion",863217
+VID_0272,CH_7960,short,2020-09-09,03:31:32,Short on Travel,46894,489,592,543923,85.82,"quick, trend, funny",82722
+VID_0273,CH_8052,tutorial,2022-01-27,22:06:23,Tutorial on Fitness,87469,7744,1664,969300,81.47,"guide, step-by-step, how-to",546515
+VID_0274,CH_7499,tutorial,2023-05-17,02:50:54,Tutorial on Gaming,34550,3222,1124,260527,13.61,"learn, education, step-by-step",896409
+VID_0275,CH_5366,gaming,2021-12-27,20:38:42,Gaming on Travel,59921,1447,2682,401725,13.63,"stream, esports, tips",234160
+VID_0276,CH_8621,tutorial,2020-09-08,17:59:41,Tutorial on Travel,80248,3729,3174,1250376,13.45,"guide, education, step-by-step",781009
+VID_0277,CH_2738,review,2020-05-25,06:59:44,Review on Fitness,23995,549,269,104059,71.96,"recommendation, comparison, pros and cons",237984
+VID_0278,CH_3428,vlog,2021-09-05,01:35:52,Vlog on Fitness,70920,5968,2614,522378,54.47,"experience, daily life, travel",203734
+VID_0279,CH_4977,tutorial,2023-12-18,17:07:14,Tutorial on Tech,38928,1962,975,142542,79.07,"education, how-to, step-by-step",570079
+VID_0280,CH_3337,vlog,2023-03-16,04:33:03,Vlog on Fitness,1987,69,27,20902,12.92,"travel, personal, diary",28254
+VID_0281,CH_4107,tutorial,2021-02-17,19:16:24,Tutorial on Travel,64728,2877,1046,828856,79.69,"guide, education, learn",99717
+VID_0282,CH_5603,vlog,2020-12-07,00:04:13,Vlog on Fitness,93149,3608,1790,1803147,75.06,"experience, personal, travel",468710
+VID_0283,CH_1374,tutorial,2023-12-05,03:44:11,Tutorial on Gaming,10514,375,111,208621,30.31,"how-to, step-by-step, education",711084
+VID_0284,CH_7668,tutorial,2021-09-18,16:42:49,Tutorial on Travel,55531,3416,2056,724644,26.57,"step-by-step, how-to, learn",20143
+VID_0285,CH_4334,vlog,2022-02-17,09:12:12,Vlog on Travel,57222,862,977,397700,55.96,"experience, travel, daily life",121828
+VID_0286,CH_9789,short,2021-05-07,06:15:49,Short on Food,4463,358,217,71854,45.37,"funny, quick, viral",398265
+VID_0287,CH_2760,gaming,2020-10-21,12:54:45,Gaming on Travel,65990,4959,172,753750,12.21,"gameplay, tips, walkthrough",220303
+VID_0288,CH_8342,vlog,2022-10-03,01:27:54,Vlog on Gaming,37523,650,1436,281589,72.17,"daily life, travel, experience",73512
+VID_0289,CH_4374,gaming,2020-11-17,02:43:47,Gaming on Tech,77891,3134,2704,429647,89.62,"walkthrough, stream, gameplay",749704
+VID_0290,CH_3954,gaming,2023-04-21,01:55:58,Gaming on Travel,93108,1840,2855,1786181,23.68,"stream, tips, esports",122659
+VID_0291,CH_1410,vlog,2023-03-30,21:15:07,Vlog on Tech,40328,3598,1733,433796,27.15,"experience, travel, diary",695462
+VID_0292,CH_1076,gaming,2021-03-08,00:11:55,Gaming on Food,78611,1326,362,1197968,54.78,"gameplay, stream, walkthrough",292302
+VID_0293,CH_2508,gaming,2020-10-10,19:13:07,Gaming on Travel,2397,91,77,43637,31.77,"esports, gameplay, tips",273132
+VID_0294,CH_5717,review,2023-01-27,23:47:23,Review on Travel,64175,1859,278,250503,71.05,"product, pros and cons, opinion",99728
+VID_0295,CH_2994,vlog,2023-08-18,00:04:14,Vlog on Fitness,25628,1368,764,140085,28.95,"daily life, diary, experience",31273
+VID_0296,CH_3284,short,2023-01-15,23:25:19,Short on Gaming,53815,245,705,1070491,55.83,"shorts, funny, viral",391724
+VID_0297,CH_2731,short,2022-01-29,17:01:16,Short on Gaming,25085,411,1165,106972,32.38,"funny, shorts, trend",83262
+VID_0298,CH_4092,short,2023-05-17,16:39:54,Short on Food,68481,3660,1657,517399,90.85,"viral, quick, shorts",673470
+VID_0299,CH_7691,vlog,2023-06-21,20:35:18,Vlog on Gaming,3777,273,110,18566,24.12,"diary, personal, travel",249811
+VID_0300,CH_6184,short,2023-06-26,07:35:30,Short on Fitness,41468,2564,1838,221212,39.41,"funny, trend, quick",635164
